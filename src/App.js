@@ -21,8 +21,6 @@ const routes = [{
     }]
 }]
 
-
-
 const router = createBrowserRouter(routes);
 
 export default function App() {
