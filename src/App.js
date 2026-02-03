@@ -4,7 +4,7 @@ import { useState } from "react";
 import HomePage from "./pages/HomePage";
 import GamePage from "./pages/GamePage";
 import RankPage from "./pages/RankPage";
-import Layout from "./Layout";
+import Layout from "./components/layout/Layout";
 
 const routes = [{
    path: "/",
